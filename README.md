@@ -40,4 +40,4 @@ You can import the structure using `patient.sql`.
 
 ## Consultation History
 For each consultation, a text file is created or updated with the patient's ID.  
-Example:
+
