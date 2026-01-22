@@ -1,4 +1,5 @@
 
+<img width="797" height="475" alt="Screenshot From 2026-01-22 21-12-41" src="https://github.com/user-attachments/assets/0ac1453c-9b11-4cfb-9242-eb5768f3f269" />
 
 # Medical Clinic Management — Windows Forms (C# + MySQL)
 
